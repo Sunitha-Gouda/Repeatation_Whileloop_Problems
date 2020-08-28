@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# PROGRAM::::Write a program where gambler starts with rs 100 and places re1 bet untilhe/she
+#goes broke i.e no more money to gamble or reaches of bets goal rs.200
+#keep track of number of times won and number of bets made??????
+
 NUMBER=100;
 valid=true;
 BET_COUNT=0;
